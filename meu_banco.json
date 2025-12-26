@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2025-12-21 22:28:24",
+        "categoria": "Ideia",
+        "valor": "teste",
+        "obs": "testando com observação "
+    },
+    {
+        "timestamp": "2025-12-22 07:56:08",
+        "categoria": "Comida",
+        "titulo": "",
+        "autor": null,
+        "local": "",
+        "preco": "",
+        "ano_lancamento": null,
+        "nota": "",
+        "data_ref": "",
+        "obs": ""
+    },
+    {
+        "timestamp": "2025-12-22 13:03:41",
+        "categoria": "Comida",
+        "titulo": "Milk-shake (Nutella + Kinder Ovo)",
+        "autor": null,
+        "local": "Sorveteria Mestre Sorveteiro",
+        "preco": 16.9,
+        "ano_lancamento": null,
+        "nota": 4.5,
+        "data_ref": "2025-12-21",
+        "obs": "Experimentar outros sabores em busca do melhor."
+    },
+    {
+        "timestamp": "2025-12-22 13:20:24",
+        "categoria": "Vídeo",
+        "titulo": "How to quickly escape a dopamine hole",
+        "autor": "Newel of Knowledge",
+        "local": null,
+        "preco": null,
+        "ano_lancamento": 2025.0,
+        "nota": 5.0,
+        "data_ref": "2025-12-18",
+        "obs": "https://youtu.be/eXQ3VVRuy1I?si=HrUN40VRfWU0XZ6D"
+    }
+]
